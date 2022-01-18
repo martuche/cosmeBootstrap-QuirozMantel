@@ -1,0 +1,42 @@
+body{
+    margin-top: 118px;
+    background-color: #7FC29B;
+}  
+
+.navbar-brand {
+    padding: 0;
+    height: 100px;
+    line-height: 100px;
+}
+
+
+.nav-color{
+    background-image: linear-gradient(0deg, rgba(127,194,155,1) 0%, rgba(209,250,226,1) 74%);
+}
+
+.card{
+    border: none;
+    background-color: #7FC29B;
+}
+
+.card-body{
+    height: 10rem;
+
+}
+
+.imgsize{
+    width: 40px;
+    height: 40px;
+}
+
+.imgsize1{
+    width: 300px;
+    height: 300px;
+}
+
+footer{
+    background-image: linear-gradient(180deg, rgba(127,194,155,1) 0%, rgba(209,250,226,1) 74%);
+    padding: 2rem;
+}
+
+
